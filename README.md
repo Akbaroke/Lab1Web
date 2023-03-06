@@ -9,4 +9,4 @@
 link : [akbaroke.github.io/tugas2-web2](https://akbaroke.github.io/tugas2-web2/)
 <br/>
 
-![sssss](https://user-images.githubusercontent.com/94231436/223053617-482d93ed-90cf-42b5-b8c1-b2a831d50764.JPG)
+![sssss](https://cdn.discordapp.com/attachments/1015028360759492710/1082219095950360597/sssss.JPG)
