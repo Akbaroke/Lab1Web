@@ -232,6 +232,10 @@ nav > a:hover {
   border-left: 1px solid #eaeaea;
 }
 
+#wrapper > .sidebar > div:nth-child(1) > a:hover{
+  text-decoration: underline;
+}
+
 #wrapper > .sidebar > div:nth-child(2) > p {
   display: block;
   padding: 15px;
